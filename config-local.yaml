@@ -1,6 +1,0 @@
-bind: localhost:8080
-dbpath: ./data
-repouipath: ./repo-ui
-adminuipath: ./admin-ui
-reponame: My Repository
-repohost: http://localhost:8080
